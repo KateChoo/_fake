@@ -1,6 +1,5 @@
 let scene, camera, renderer, cube, geometry, shiba;
-const bg = 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Kyoto-Ryoan-Ji_MG_4512.jpg/1280px-Kyoto-Ryoan-Ji_MG_4512.jpg';
-const forest = 'http://t0.gstatic.com/licensed-image?q=tbn:ANd9GcQQUQVVi3x6MaeTPJ6tjznkNpv6vUAwGIrh4hHUg7adUMVSxSrJmXrqlM0RaonFXu_BuwI-Uegnp7Pw9PdyF4k';
+
     function init() {
       scene = new THREE.Scene();
       //Add meshes here
